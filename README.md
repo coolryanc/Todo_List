@@ -18,7 +18,7 @@
 - - [x] Revise content of todo
 - - [x] Filter finished/unfinished todos
 - - [x] Clear all finished todos
-- - [x] Support drag and drop to reorder the todo list 🤓
+- - [x] Support drag and drop to reorder the todo list, use vanilla js. 🤓
 
 <p align="center">
   <a href="https://yuanc.me/todoApp/" target="_blank">
